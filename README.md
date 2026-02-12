@@ -94,13 +94,4 @@ GET `/api/auth/admin`
 
 ---
 
-## ⚙️ Run Locally
-
-1. Clone the repository
-2. Install dependencies:
-
-   ```bash
-   npm install
-
-
   ## ~Ashray Saxena
